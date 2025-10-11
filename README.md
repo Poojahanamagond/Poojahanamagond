@@ -1,9 +1,5 @@
 # 💫 About Me:
-Final Year BE Student at S G Balekundri Institute of Technology Belagavi
-I'm currently learning Full Stack Web Development in JAVA
-I'm currently working as intern in TAP-ACADEMY
-
-
+🔭 Final Year BE Student at S G Balekundri Institute of Technology Belagavi<br>👯 I’m currently learning Full Stack Web Development in JAVA<br>🤝 I’m I'm currently working as intern in TAP-ACADEMY<br>
 
 
 ## 🌐 Socials:
